@@ -1,4 +1,4 @@
-<h1>JActive Directory Home Lab</h1>
+<h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
 I've created an Active Directory home lab Environment using Oracle Virtual Box. Configuring and running this lab definitely helped develop my understanding of how active directory and windows networking works!
